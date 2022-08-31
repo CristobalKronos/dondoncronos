@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Cristobal, you can call me Kronos.
+- 👋 Hi, I’m Cristobal, you can call me Kronos or DonKronos.
 - 👀 I’m interested in roleplaying games and electronic music.
 - 🌱 I’m currently learning backend languajes, but I want learn and practice frontend languajes
 - 💞️ I’m looking to collaborate on small and medium projects for practice, but if I can collaborate on a big project, I would join
